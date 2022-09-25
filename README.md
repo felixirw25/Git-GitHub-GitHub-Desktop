@@ -42,11 +42,38 @@ Referensi cara melakukan push, pull, dan commit di GitHub Desktop:
 - Push origin
 
 4. Pull:
-- Pilih branch sumber tempat untuk pull
-- 
+- Pada Visual Studio Code, Pilih branch sumber tempat untuk pull
+- Tekan titik tiga, lalu pull
 
-5. Pull Request: 
-- 
+5. Merge: Terjadi ketika mengedit sumber file yang sama, namun di push ke lebih dari satu branch yang berbeda
+- Pada GitHub Desktop, pindah ke main
+- Tekan "Choose a branch to merge into main"
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192139517-6d47c14c-0591-415d-9bda-9c208bda66bb.png"></p>
+
+- Pilih branch yang mau digabung
+- Lalu, tekan Create a merge commit
+- Push origin
+- Terkadang bisa terjadi conflict
+
+6. Conflict: Sering terjadi ketika merge file, untuk menyelesaikannya harus menggunakan Visual Studio Code (VSC) atau Command Line (GitHub Desktop belum support perbaikan secara langsung).
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192139345-795acfb2-3e3d-4edd-b03f-532bc0b95663.png"></p>
+
+- Setelah buka di VSC, dapat dilihat beberapa perbedaan, pilih Accept Current Change (progress dari HEAD), Accept Incoming Change (progress dari branch), atau Both Change (progress dari kedua file)
+- Setelah resolve, klik continue merge
+- Push origin
+
+7. Pull Request (mirip dengan merge, bedanya online langsung mengubah di remote):
+- Buat Branch baru yang diisikan coding
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192139749-00e50472-3d5a-4139-b685-27525089e0ee.png"></p>
+
+- Pada VSC, tekan "Compare & Pull Request"
+- Terkadang bisa juga terjadi conflict
+- Kemudian isi pesan dan komen pull request, serta tekan "Create pull request"
+- Jika projek individu, dapat langsung confirm merge
+- Jika projek memiliki beberapa collaborator, harus disetujui salah satu collaborator lain baru dapat melakukan merge.
 
 <b><a href="https://git-scm.com/">Git Graph</a></b> adalah ekstensi tambahan di Visual Studio COde (VSC) yang berfungsi membantu melacak history commit dari sebuah projek. 
 
