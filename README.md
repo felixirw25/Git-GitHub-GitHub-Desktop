@@ -10,7 +10,7 @@
 
 <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192134062-fef79c66-9c73-4889-bda7-4b2dfb9aa73e.png"></p>
 
-<b><a href="https://github.com/">GitHub</a></b> adalah salah satu penyedia layanan Git, juga terdapat aplikasi lain penyedia layanan Git, yaitu Gitlab, Plastic SCL, namun layanan ini kalah populer.
+<b><a href="https://github.com/">GitHub</a></b> adalah salah satu penyedia layanan Git, juga terdapat aplikasi lain penyedia layanan Git, yaitu [GitLab](https://about.gitlab.com/), [Plastic SCM](https://www.plasticscm.com/), namun layanan ini kalah populer.
 
 Istilah-istilah yang ada pada Git:
 - Repository: Tempat / folder penyimpanan khusus yang terdiri dari beberapa versi history yang ditampung pada suatu tempat. Terdapat dua tempat penyimpanan yaitu di server dan di lokal. Dengan menyimpan di repo, maka setiap orang dalam projek dapat meng-clone (mendowndload semua versi history yang ada pada projek tersebut).
