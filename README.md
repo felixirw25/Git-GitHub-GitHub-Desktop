@@ -20,16 +20,22 @@ Istilah-istilah yang ada pada Git:
 - Branch: Bagian dari main repository yang memiliki history yang berbeda dengan master dan bisa dijadikan satu dengan master atau main branch asal latest history nya sama, jika latest perubahannya tidak sama maka biasanya akan terjadi conflict.
 
 Referensi cara melakukan push, pull, dan commit di GitHub Desktop:
-1. Push Pertama:
+1. Commit Pertama:
 - Membuat akun di [GitHub](https://github.com/) 
 - Download <a href="https://desktop.github.com/">GitHub Desktop</a>
 - Atur File > Option > Accounts > Sign In
 - Atur File > Option > Git > Atur nama & Pilih Email yang ingin dipakai
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192140781-e2d57c9d-d9a4-4aee-942a-b52e64e6c460.png"></p>
+
 - Pilih Create a New Repo from Hard Drive dan isi identitasnya
 - Otomatis terbuat initial commit
 - Publish repository
 
 2. Clone Project: 
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192140706-3964f674-ac32-4e3f-921a-e6681204059a.png"></p>
+
 - Sumber pribadi: File > Clone Repo > GitHub.com > Pilih sumber & projek yang mau diclone
 - Sumber publik: File > Clone Repo > URL > Pilih sumber & projek yang mau diclone (projek milik orang yang bersifat publik)
 
