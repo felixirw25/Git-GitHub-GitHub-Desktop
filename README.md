@@ -75,9 +75,13 @@ Referensi cara melakukan push, pull, dan commit di GitHub Desktop:
 - Jika projek individu, dapat langsung confirm merge
 - Jika projek memiliki beberapa collaborator, harus disetujui salah satu collaborator lain baru dapat melakukan merge.
 
-<b><a href="https://git-scm.com/">Git Graph</a></b> adalah ekstensi tambahan di Visual Studio COde (VSC) yang berfungsi membantu melacak history commit dari sebuah projek. 
+Catatan Tambahan:
 
 <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192134468-5dea02cc-2d38-4602-a7f1-48ee3d7c8919.png"></p>
+
+<b><a href="https://git-scm.com/">Git Graph</a></b> adalah ekstensi tambahan di Visual Studio COde (VSC) yang berfungsi membantu melacak history commit dari sebuah projek. 
+
+<b><a href="https://gist.github.com/takekazuomi/10955889">Git Ignore</a></b> adalah file tambahan di projek yang berfungsi mengabaikan beberapa file seperti settingan pribadi dan log projek agar tidak ikut terupload ke git. 
 
 <br/>
 **Copyright by Felix Irwanto - 2022**
