@@ -8,9 +8,9 @@
 
 <b><a href="https://git-scm.com/">Git</a></b> adalah perangkat lunak manajemen sumber koding yang berguna untuk mencatat setiap perubahan (bahkan hingga perubahan satu huruf) menjadi berbagai versi hingga dapat mengembangkan koding secara bersama tanpa harus saling menunggu (non-linear manner). 
 
-<b><a href="https://github.com/">GitHub</a></b> adalah salah satu penyedia layanan Git, juga terdapat aplikasi lain penyedia layanan Git, yaitu Gitlab, Plastic SCL, namun layanan ini kalah populer.
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192134062-fef79c66-9c73-4889-bda7-4b2dfb9aa73e.png"></p>
 
-<p align="center"><img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"></p>
+<b><a href="https://github.com/">GitHub</a></b> adalah salah satu penyedia layanan Git, juga terdapat aplikasi lain penyedia layanan Git, yaitu Gitlab, Plastic SCL, namun layanan ini kalah populer.
 
 Istilah-istilah yang ada pada Git:
 - Repository: Tempat / folder penyimpanan khusus yang terdiri dari beberapa versi history yang ditampung pada suatu tempat. Terdapat dua tempat penyimpanan yaitu di server dan di lokal. Dengan menyimpan di repo, maka setiap orang dalam projek dapat meng-clone (mendowndload semua versi history yang ada pada projek tersebut).
