@@ -1,10 +1,13 @@
-<h1> Introduction to Programming & Game Introduction </h1>
+<h1> Git & Unity </h1>
 <p> oleh Felix Irwanto (GameDev Kelompok 3) </p>
 <br>
 
-## Game Introduction
+## Git
 
-***Game*** berasal dari kata bahasa inggris yang memiliki arti permainan. Menurut [Kominfo](https://kominfo.malangkab.go.id/pd/detail?title=pengaruh-game-dalam-kehidupan-sehari-hari), Game adalah suatu bentuk permainan atau olahraga, terutama yang kompetitif yang dimainkan menurut aturan dan diputuskan oleh keterampilan, kekuatan, atau keberuntungan. 
+<b><a href="https://git-scm.com/">Git</a></b> adalah perangkat lunak manajemen sumber koding yang berguna untuk mencatat setiap perubahan (bahkan hingga perubahan satu huruf) menjadi berbagai versi hingga dapat mengembangkan koding secara bersama tanpa harus saling menunggu (non-linear manner). 
+
+<b><a href="https://github.com/">GitHub</a></b> adalah salah satu penyedia layanan Git, juga terdapat aplikasi lain penyedia layanan Git, yaitu Gitlab, Plastic SCL, namun layanan ini kalah populer.
+
 <p align="center"><img width="40%" height="255px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"> &nbsp; &nbsp; <img width="40%" src="http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
 
 Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: 
