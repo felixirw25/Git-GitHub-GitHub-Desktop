@@ -21,7 +21,7 @@ Istilah-istilah yang ada pada Git:
 
 Referensi cara melakukan push, pull, dan commit di GitHub Desktop:
 1. Push Pertama:
-- Membuat akun di GitHub
+- Membuat akun di [GitHub](https://github.com/) 
 - Download <a href="https://desktop.github.com/">GitHub Desktop</a>
 - Atur File > Option > Accounts > Sign In
 - Atur File > Option > Git > Atur nama & Pilih Email yang ingin dipakai
@@ -35,16 +35,22 @@ Referensi cara melakukan push, pull, dan commit di GitHub Desktop:
 
 3. Push:
 - Setelah ada perubahan, akan tampak di Changes
+- Pilih branch sumber tempat untuk push
 - Isi pesan singkat pada Summary
 - Isi pesan deskriptif pada Description (opsional)
 - Commit
 - Push origin
 
 4. Pull:
+- Pilih branch sumber tempat untuk pull
 - 
 
 5. Pull Request: 
 - 
+
+<b><a href="https://git-scm.com/">Git Graph</a></b> adalah ekstensi tambahan di Visual Studio COde (VSC) yang berfungsi membantu melacak history commit dari sebuah projek. 
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192134468-5dea02cc-2d38-4602-a7f1-48ee3d7c8919.png"></p>
 
 <br/>
 **Copyright by Felix Irwanto - 2022**
