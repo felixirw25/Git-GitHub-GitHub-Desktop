@@ -1,16 +1,12 @@
-<h1> Git & Unity </h1>
+<h1> Git, GitHub & GitHub Desktop </h1>
 <p> oleh Felix Irwanto (GameDev Kelompok 3) </p>
 <br>
 
-## Git (GitHub)
+## Git
 
 <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192131506-96631995-546e-414e-a47f-fee6fc331e28.png"></p>
 
 <b><a href="https://git-scm.com/">Git</a></b> adalah perangkat lunak manajemen sumber koding yang berguna untuk mencatat setiap perubahan (bahkan hingga perubahan satu huruf) menjadi berbagai versi hingga dapat mengembangkan koding secara bersama tanpa harus saling menunggu (non-linear manner). 
-
-<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192134062-fef79c66-9c73-4889-bda7-4b2dfb9aa73e.png"></p>
-
-<b><a href="https://github.com/">GitHub</a></b> adalah salah satu penyedia layanan Git, juga terdapat aplikasi lain penyedia layanan Git, yaitu [GitLab](https://about.gitlab.com/), [Plastic SCM](https://www.plasticscm.com/), namun layanan ini kalah populer.
 
 Istilah-istilah yang ada pada Git:
 - Repository: Tempat / folder penyimpanan khusus yang terdiri dari beberapa versi history yang ditampung pada suatu tempat. Terdapat dua tempat penyimpanan yaitu di server dan di lokal. Dengan menyimpan di repo, maka setiap orang dalam projek dapat meng-clone (mendowndload semua versi history yang ada pada projek tersebut).
@@ -18,6 +14,28 @@ Istilah-istilah yang ada pada Git:
 - Commit: Diibaratkan membuat save point, komitmen dari perubahan yang ada di projek
 - Pull: Diibaratkan download ke laptop. Bedanya dengan clone, pull hanya mendownload file yang hanya merupakan commit terakhir.
 - Branch: Bagian dari main repository yang memiliki history yang berbeda dengan master dan bisa dijadikan satu dengan master atau main branch asal latest history nya sama, jika latest perubahannya tidak sama maka biasanya akan terjadi conflict.
+
+## GitHub
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192134062-fef79c66-9c73-4889-bda7-4b2dfb9aa73e.png"></p>
+
+<b><a href="https://github.com/">GitHub</a></b> adalah salah satu penyedia layanan Git, juga terdapat aplikasi lain penyedia layanan Git, yaitu [GitLab](https://about.gitlab.com/), [Plastic SCM](https://www.plasticscm.com/), namun layanan ini kalah populer.
+
+Tahapan untuk melakukan Commit Pertama dengan GitHub:
+- Membuat akun di [GitHub](https://github.com/) 
+- Buka Command Line
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin git@github.com:username/nama-project
+- git push -u origin main
+
+## GitHub Desktop
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192134062-fef79c66-9c73-4889-bda7-4b2dfb9aa73e.png"></p>
+
+<b><a href="https://desktop.github.com/">GitHub Desktop</a></b> adalah layanan GUI dari GitHub yang menyederhanakan alur kerja pengembangan git. Penggunaan GitHub Desktop tidak terdapat pemakaian syntax git.
 
 Referensi cara melakukan push, pull, dan commit di GitHub Desktop:
 1. Commit Pertama:
