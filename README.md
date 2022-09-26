@@ -23,8 +23,8 @@ Istilah-istilah yang ada pada Git:
 
 Tahapan untuk melakukan Commit Pertama dengan GitHub:
 - Membuat akun di [GitHub](https://github.com/) 
-- Buka Command Line
-- git init
+- Buka Command Line di dir folder yang diinginkan
+- git add -A
 - git add README.md
 - git commit -m "first commit"
 - git branch -M main
