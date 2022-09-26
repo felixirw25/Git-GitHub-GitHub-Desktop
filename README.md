@@ -33,7 +33,7 @@ Tahapan untuk melakukan Commit Pertama dengan GitHub:
 
 ## GitHub Desktop
 
-<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192134062-fef79c66-9c73-4889-bda7-4b2dfb9aa73e.png"></p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192211617-04cf0ea3-f4f2-4861-94c5-4ae7d5902ee2.png"></p>
 
 <b><a href="https://desktop.github.com/">GitHub Desktop</a></b> adalah layanan GUI dari GitHub yang menyederhanakan alur kerja pengembangan git. Penggunaan GitHub Desktop tidak terdapat pemakaian syntax git.
 
